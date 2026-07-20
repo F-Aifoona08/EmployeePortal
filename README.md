@@ -1,19 +1,3 @@
 # Employee Portal
 
-This project is for learning Git.
-
-## Features
-
-Employee Login
-
-Dashboard
-
-Reports
-
-## Users
-
-Admin
-
-Department Manager
-
-Employee
+This project includes Login Module.
