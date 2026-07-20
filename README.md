@@ -1,3 +1,3 @@
 # Employee Portal
 
-This project includes Login Module.
+This project includes Login Module and Dashboard.
