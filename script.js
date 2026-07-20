@@ -1,1 +1,1 @@
-console.log("Employee Portal");
+console.log("Employee Portal Loaded");
