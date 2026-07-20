@@ -9,3 +9,11 @@ Employee Login
 Dashboard
 
 Reports
+
+## Users
+
+Admin
+
+Department Manager
+
+Employee
