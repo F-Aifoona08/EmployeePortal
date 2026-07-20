@@ -17,3 +17,10 @@ Admin
 Department Manager
 
 Employee
+
+
+## Departments
+
+IT
+HR
+Dev
